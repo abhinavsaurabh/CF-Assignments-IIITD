@@ -3,7 +3,7 @@
 This repository contains the assignments completed for the course **CSE640: Collaborative Filtering** at IIIT Delhi during the Winter 2021 semester. The course focused on various collaborative filtering techniques used in recommendation systems.
 
 **Course Instructor:** [Angshul Majumdar](https://www.linkedin.com/in/salsa-lab-angshul-majumdar-7645321b7/)
----
+
 
 ## Repository Structure
 
